@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for IntimaVireo.
 - Industry: SexTech, Customer Experience, Natural Language Processing
 - Founder: Joshua Ekwueme (Founder & CEO)
 - Co-founder: Aderonke Adeyemi (Co-founder & CTO)
-- Contact: joshua@intimavireo.top
+- Contact: joshua@intimavireo.site
 - Business model: Feedback-volume subscriptions
 
 ## Stack

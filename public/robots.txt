@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://intimavireo.top/sitemap.xml
+Sitemap: https://intimavireo.site/sitemap.xml
