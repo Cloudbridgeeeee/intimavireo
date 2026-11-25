@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="r" cx="0.8" cy="0" r="0.9"><stop offset="0" stop-color="#ffad8a" stop-opacity=".35"/><stop offset="1" stop-color="#160d0e" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#160d0e"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g transform="translate(80 90) scale(1.4)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffad8a"/><stop offset="1" stop-color="#e46f8a"/></linearGradient></defs><path d="M32 4C32 4 10 28 10 41a22 22 0 0 0 44 0C54 28 32 4 32 4Z" fill="url(#g)"/><circle cx="25" cy="42" r="6" fill="#f5d08a" opacity=".8"/></g>
+  <text x="190" y="150" font-family="Marcellus, Georgia, serif" font-size="54" font-weight="600" fill="#fbefea">IntimaVireo</text>
+  <text x="80" y="330" font-family="Marcellus, Georgia, serif" font-size="72" font-weight="400" fill="#fbefea">Understand adult wellness</text>
+  <text x="80" y="414" font-family="Marcellus, Georgia, serif" font-size="72" font-weight="400" fill="#fbefea">customer experiences.</text>
+  <text x="80" y="560" font-family="monospace" font-size="24" fill="#ffad8a" letter-spacing="4">SEXTECH  ·  CUSTOMER EXPERIENCE  ·  NATURAL LANGUAGE PROCESSING</text>
+</svg>

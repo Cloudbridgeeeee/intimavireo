@@ -1,0 +1,16 @@
+{
+  "name": "IntimaVireo",
+  "short_name": "IntimaVireo",
+  "description": "AI feedback analytics software that helps adult wellness brands understand product quality concerns and customer service issues through appropriately anonymized feedback.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#160d0e",
+  "theme_color": "#160d0e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
